@@ -20,7 +20,7 @@ I'm <a href="https://naryan.github.io/homework2/">Narayan Poudel</a>, a Full Sta
 - 💬 [Resume]( https://github.com/naryan/Resume/blob/main/NarayanPoudelResume.pdf). Ask me about anything, I'm happy to answer;
 - 📫 How to reach me: aayanpoudel@gmail.com;
 
-**Languages, Tools and Platforms that I have worked with:**  
+**Languages, Tools, and Platforms that I have worked with:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
