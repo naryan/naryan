@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2> Hi, I'm  <a href="https://naryan.github.io/homework2/">Narayan Poudel </a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h2>
+### Hi there 👋  I'm  <a href="https://naryan.github.io/homework2/">Narayan Poudel </a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"  width="100">
 
 <br/>
 
