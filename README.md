@@ -1,4 +1,4 @@
-### Hi there 👋  I'm  <a href="https://naryan.github.io/homework2/">Narayan Poudel </a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"  width="100">
+### Hi there <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"  width="100">
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br />
 
-I'm Narayan Poudel, a Full Stack Developer based in San Francisco Bay Area. Currently looking for a open job oppertunity. I am a recent gradute from Truman State University with Computer Science Degree. I aslo have recently compelted Full Stack Web Development Bootcamp with UC Berkeley Extension School. 
+I'm <a href="https://naryan.github.io/homework2/">Narayan Poudel </a>, a Full Stack Developer based in San Francisco Bay Area. Currently looking for a open job oppertunity. I am a recent gradute from Truman State University with Computer Science Degree. I aslo have recently compelted Full Stack Web Development Bootcamp with UC Berkeley Extension School. 
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
