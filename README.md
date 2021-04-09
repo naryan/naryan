@@ -35,4 +35,4 @@ I'm <a href="https://naryan.github.io/homework2/">Narayan Poudel</a>, a passiona
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/trello_plain_logo_icon_146319.png"></code>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Show some ❤️ by starring some of the repositories! :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Show some ❤️ :)</em>
