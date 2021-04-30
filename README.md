@@ -15,6 +15,7 @@ I'm <a href="https://naryan.github.io/homework2/">Narayan Poudel</a>, a passiona
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
+- https://media.giphy.com/media/ocuQpTqeFlDOP4fFJI/giphy.gif Visit my website on https://naryan.netlify.app/
 - 👨🏽‍💻 I’m currently working on [JobTrackR Web Application](https://github.com/naryan/jobTrackR).
 - 🌱 I’m currently learning React, React Native, Node.js; 
 - 💬 [Resume]( https://github.com/naryan/Resume/blob/main/NarayanPoudelResume.pdf). Ask me about anything, I'm happy to answer;
